@@ -5,6 +5,8 @@ return (
 <View>
 <Text>Corpo</Text>
 </View>
+
+  //aqui está sendo criado todo o conteúdo que irá compor o corpo do site/app
 );
 };
 export default Corpo;
